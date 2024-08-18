@@ -1,2 +1,7 @@
 requests
 python-dotenv
+langchain
+langchain-openai
+langchain-llm-streamer
+azure-cognitiveservices-speech
+pyaudio
