@@ -1,6 +1,7 @@
+import os
+
 import azure.cognitiveservices.speech as speechsdk
 from dotenv import load_dotenv
-import os
 
 
 def initialize_speech_config():
